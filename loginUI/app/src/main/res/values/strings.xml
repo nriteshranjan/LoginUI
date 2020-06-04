@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">loginUI</string>
+    <string name="welcome_">Welcome !</string>
+    <string name="nice_to_see">Nice to see you again!</string>
+</resources>
